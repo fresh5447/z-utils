@@ -1,6 +1,6 @@
 {
   "name": "@zaneray/logger",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "main": "index.js",
   "license": "MIT",
   "gitHead": "062bca3c2b7a22b18931254d5cc5036ee450ef75"
